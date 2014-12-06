@@ -85,7 +85,7 @@ The `controls` parameter of the `{{date-picker-input}}` must reference the `id` 
 Contributors
 ------------
 
-Created by: [William Dami](https://github.com/billdami)
+Created by: [William Dami](https://github.com/billdami)<br/>
 Converted into Addon by: [Daniel Ochoa](https://github.com/DanyHunter)
 
 
