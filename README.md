@@ -82,12 +82,6 @@ The `controls` parameter of the `{{date-picker-input}}` must reference the `id` 
 * **maxYear** (`int|string|bool`, default: `false`)
   The default maximum year for the `{{date-picker-controls}}` component. If an associated `{{date-picker-input}}` specifies its own `maxYear`, it will override this setting while that input is active.
 
-Contributors
-------------
-
-Created by: [William Dami](https://github.com/billdami)<br/>
-Converted into Addon by: [Daniel Ochoa](https://github.com/DanyHunter)
-
 
 This README outlines the details of collaborating on this Ember addon.
 
